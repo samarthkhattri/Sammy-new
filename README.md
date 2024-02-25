@@ -1,4 +1,4 @@
 # Sammy-new
 This is my first proper repo.
 <br>
-Author- samarth khattri
+Author- samarth(new)
